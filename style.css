@@ -1,5 +1,8 @@
 body {
     background-color: purple;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .pages{
@@ -25,9 +28,4 @@ strong{
 
 p{
     color: white;
-}
-
-body{
-    margin-left: 40px;
-    margin-right: 40px;
 }
