@@ -2,6 +2,10 @@ body {
     background-color: black;
 }
 
+.pages{
+    background-color: cyan;
+}
+
 header{
     color: white;
 }
