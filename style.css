@@ -6,6 +6,10 @@ header{
     color: white;
 }
 
+em{
+    color: yellow;
+}
+
 strong{
     color: white;
 }
