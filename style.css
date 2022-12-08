@@ -2,6 +2,14 @@ body {
     background-color: black;
 }
 
+header{
+    color: white;
+}
+
+strong{
+    color: white;
+}
+
 p{
     color: white;
 }
