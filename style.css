@@ -42,6 +42,8 @@ p{
 
 .blog-post{
     border-bottom: 1px dotted lightgray;
+    display: flex;
+    flex-direction: column;
 }
 
 #titlay{
@@ -51,7 +53,3 @@ p{
     bottom: 50px;
 }
 
-p{
-    display: flex;
-    flex-direction: column;
-}
