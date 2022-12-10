@@ -55,8 +55,8 @@ p{
 }
 
 img{
-    left: 500px;
-    right: 300px;
+    display: flex;
+    flex-direction: column;
 }
 
 
