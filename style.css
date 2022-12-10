@@ -51,7 +51,7 @@ p{
     bottom: 50px;
 }
 
-body{
+p{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
