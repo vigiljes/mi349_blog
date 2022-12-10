@@ -44,7 +44,7 @@ p{
     border-bottom: 1px dotted lightgray;
 }
 
-header{
+.titlay{
     position: sticky;
     top: 50px;
     bottom: 50px;
