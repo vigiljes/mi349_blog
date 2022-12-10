@@ -38,12 +38,17 @@ p{
 
 #blog{
     border-top: 1px dotted lightgray;
+    display: flex;
+    flex-direction: column;
 }
 
 .blog-post{
     border-bottom: 1px dotted lightgray;
-    display: flex;
-    flex-direction: column;
+
+}
+
+img{
+    display: ;
 }
 
 #titlay{
