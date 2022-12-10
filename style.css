@@ -38,7 +38,7 @@ p{
 
 #titlay{
     background-color: blue;
-    position: sticky;
+    position: relative;
     top: 50px;
     bottom: 50px;
 }
@@ -52,11 +52,10 @@ p{
 
 .blog-post{
     border-bottom: 1px dotted lightgray;
-
 }
 
 img{
-    position: relative;
+    position: sticky;
     left: 500px;
     right: 500px;
 }
