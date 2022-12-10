@@ -43,3 +43,7 @@ p{
 .blog-post{
     border-bottom: 1px dotted lightgray;
 }
+
+header{
+    position: sticky;
+}
