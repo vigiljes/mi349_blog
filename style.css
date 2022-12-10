@@ -50,3 +50,8 @@ p{
     top: 50px;
     bottom: 50px;
 }
+
+body{
+    display: flex;
+    flex-direction: column;
+}
