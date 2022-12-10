@@ -45,5 +45,5 @@ p{
 }
 
 header{
-    position: sticky;
+    position: fixed;
 }
