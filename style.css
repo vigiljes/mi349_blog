@@ -55,6 +55,11 @@ p{
     border-bottom: 1px dotted lightgray;
 }
 
+table{
+    display: flex;
+    flex-direction: column;
+}
+
 img{
     float: right;
     width: 300px;
