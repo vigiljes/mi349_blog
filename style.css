@@ -70,5 +70,7 @@ img{
 }
 
 @media (max-width: 400px){
-    body
+    #blog{
+        background: black;
+    }
 }
